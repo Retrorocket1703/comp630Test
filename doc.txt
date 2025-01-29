@@ -1,0 +1,7 @@
+Isaac Allan, Joshua Simard
+
+During the first part of the assignment, we ran into a merge conflict 
+when trying to resolve the hello.txt file. To solve this, we were able to 
+manually edit the conflicting files, removing their errors. 
+We also had an issue with authentication, which was resolved using the 
+web interface for Github and adding Programmer B as a collaborator. 
