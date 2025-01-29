@@ -5,3 +5,9 @@ when trying to resolve the hello.txt file. To solve this, we were able to
 manually edit the conflicting files, removing their errors. 
 We also had an issue with authentication, which was resolved using the 
 web interface for Github and adding Programmer B as a collaborator. 
+
+During the second part of the assignment, I (saac) misread the instructions
+and made a new document instead of editing the existing one in a new branch.
+This was fixed by switching back to main and editing the shared document in
+a new branch instead. I also messed up merging files earlier, and had to re-
+clone the repository.
